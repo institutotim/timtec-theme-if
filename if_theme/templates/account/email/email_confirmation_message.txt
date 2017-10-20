@@ -1,4 +1,4 @@
-Caro(a), bem vindo(a) ao MOOC do IFSul.
+Caro(a) usuário, bem vindo(a) à plataforma EAD Mooc!
 
 Estamos felizes por poder ajudá-lo(a) a conquistar uma qualificação técnica e construir um futuro melhor.
 
@@ -8,4 +8,4 @@ Para garantir que você tenha acesso a todos os recursos e cursos que temos para
 
 
 Até já!
-Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense
+IF - Instituto Federal de Educação, Ciência e Tecnologia
